@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-talha-ali
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning JavasScript And Advanced CSS!
-- 💞️ I’m looking to collaborate on nothing!
+- 👋 Hi there, I’m @m-talha-ali
+- 👀 I am just another guy on internet interested in programming and trying to learn or at least know it.
+- 🌱 I’m currently learning about servers and JS basics(You know the drill).😁
+- 💞️ I’m looking to collaborate on projects that can add value to my time.
 - 📫 Reach me @ talhaali1107@gmail.com
 
 <!---
